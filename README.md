@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
-    </a>
+    <img src="sid cup website on mac os.png">
   <br />
 
   <div>
@@ -26,7 +24,7 @@
 3. ⚙️ [Tech Stack](#tech-stack)
 4. 🔋 [Features](#features)
 5. 🔗 [Contact](#contact)
-6. 🚀 [License)(#license)
+6. 🧾 [Licence](#license)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -62,7 +60,7 @@ Subtle animations and hover effects enhance the user experience, making interact
 **ScrollTrigger**
 For scroll based animations
 
-## <a name="Contact">🔗 Contact</a>
+## <a name="contact">🔗 Contact</a>
 <p>If you have any questions, feel free to reach out:</p>
 <ul>
   <li><strong>All links:</strong> <a href="https://linktr.ee/notanyone_07">notanyone_07</a></li>
@@ -70,7 +68,7 @@ For scroll based animations
   <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/nabirah-siddiqui" target="_blank">Nabirah Siddiqui</a></li>
 </ul>
 
-## <a name="License"> 🧾 License<a/>
+## <a name="license"> 🧾 License<a/>
 <p>This project is licensed under the MIT license. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 
